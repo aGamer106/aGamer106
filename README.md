@@ -19,5 +19,5 @@ I code, a lot. Check my work by looking through my repos!
 #### Connect with me:
  - 📺 [YouTube Channel](https://www.youtube.com/channel/UCcXIMEHZn-4T6G84cCcBdAw)
  - 🔗 [LinkedIn](https://www.linkedin.com/in/razvan-daniel-besleaga-52466910b/)
- - 📧 Shoot me an email! razvandallas09@gmail.com
+ - 📧 [Shoot me an email!](razvandallas09@gmail.com)
 
