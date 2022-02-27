@@ -8,6 +8,12 @@
  - :de: German (C1/C2)
  - :ro: Romanian (native proficieny)
 
+
+### Connect with me:
+ - YouTube [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCcXIMEHZn-4T6G84cCcBdAw?style=social)][youtube]
+ - LinkedIn [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/razvan-daniel-besleaga-52466910b/)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
