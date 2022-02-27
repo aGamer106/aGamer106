@@ -1,12 +1,14 @@
 ### Hi, I'm Răzvan! 👋
+I'm an enthusiast of the IT & Business Administration Fields.
 
+I code, a lot. Check my work by looking through my repos! Mainly working with: C/C++, Python, Haskell, HTML/JavaScript/SQL
 <!--
 **aGamer106/aGamer106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Speaking 3 foreign languages:
- - :uk: English (C2)
- - :de: German (C1/C2)
- - :ro: Romanian (native proficieny)
+ - English (C2)
+ - German (C1/C2)
+ - Romanian (native proficieny)
 
 
 ### Connect with me:
