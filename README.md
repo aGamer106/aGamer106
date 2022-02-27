@@ -1,7 +1,7 @@
 # Hi, I'm Răzvan! 👋
 I'm an enthusiast of the IT & Business Administration Fields.
 
-I code, a lot. Check my work by looking through my repos!
+I code, a lot. Check out my work by looking through my repos!
 <!--
 **aGamer106/aGamer106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
