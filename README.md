@@ -17,7 +17,7 @@ I code, a lot. Check my work by looking through my repos!
  - Romanian (native proficieny)
 
 #### Connect with me:
- - 📺 YouTube [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCcXIMEHZn-4T6G84cCcBdAw?style=social)][youtube]
- - 🔗 LinkedIn [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/razvan-daniel-besleaga-52466910b/)
+ - 📺 [YouTube Channel](https://www.youtube.com/channel/UCcXIMEHZn-4T6G84cCcBdAw)
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/razvan-daniel-besleaga-52466910b/)
  - 📧 Shoot me an email! razvandallas09@gmail.com
 
