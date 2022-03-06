@@ -26,3 +26,6 @@ I code, a lot. Check out my work by looking through my repos!
  - [CodeBlocks](https://www.codeblocks.org/)
  - [Eclipse](https://www.eclipse.org/)
  - [PyCharm](https://www.jetbrains.com/pycharm/)
+
+#### 👨‍💻 To improve my programming skills, I usually code Katas here:
+ - [Codewars Profile](https://www.codewars.com/users/aGamer)
