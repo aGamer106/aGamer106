@@ -25,7 +25,7 @@ I code, a lot. Check out my work by looking through my repos!
 #### 🛠️ Tools & Tech I use to write code:
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [CodeBlocks](https://www.codeblocks.org/)
- - [Eclipse](https://www.eclipse.org/)
+ - [Eclipse](https://www.eclipse.org/) (on extremely rare occasions)
  - [PyCharm](https://www.jetbrains.com/pycharm/)
  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
