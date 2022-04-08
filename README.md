@@ -28,6 +28,7 @@ I code, a lot. Check out my work by looking through my repos!
  - [Eclipse](https://www.eclipse.org/) (on extremely rare occasions)
  - [PyCharm](https://www.jetbrains.com/pycharm/)
  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+ - [CLion](https://www.jetbrains.com/clion/)
 
 #### 👨‍💻 To improve my programming skills, I usually code Katas here:
  - [Codewars Profile](https://www.codewars.com/users/aGamer)
