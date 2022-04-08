@@ -7,6 +7,7 @@ I code, a lot. Check out my work by looking through my repos!
 
 #### 👨‍💻 Mainly working with:
 - C/C++
+- Java
 - Python
 - Haskell
 - HTML/JavaScript/SQL
@@ -26,6 +27,7 @@ I code, a lot. Check out my work by looking through my repos!
  - [CodeBlocks](https://www.codeblocks.org/)
  - [Eclipse](https://www.eclipse.org/)
  - [PyCharm](https://www.jetbrains.com/pycharm/)
+ - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 #### 👨‍💻 To improve my programming skills, I usually code Katas here:
  - [Codewars Profile](https://www.codewars.com/users/aGamer)
