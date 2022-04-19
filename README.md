@@ -10,7 +10,7 @@ I code, a lot. Check out my work by looking through my repos!
 - Java
 - Python
 - Haskell
-- HTML/JavaScript/SQL
+- HTML/JavaScript/PostgreSQL
 
 #### 🗣️ Speaking 3 foreign languages:
  - English (C2)
