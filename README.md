@@ -7,10 +7,11 @@ I code, a lot. Check out my work by looking through my repos!
 
 #### 👨‍💻 Mainly working with:
 - C/C++
-- Java
+- Java SE & Java EE
 - Python
 - Haskell
 - HTML/JavaScript/PostgreSQL
+- React
 
 #### 🗣️ Speaking 3 foreign languages:
  - English (C2)
