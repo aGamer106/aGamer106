@@ -7,6 +7,7 @@ I code, a lot. Check out my work by looking through my repos!
 
 #### 👨‍💻 Mainly working with:
 - C/C++
+- C#
 - Java SE & Java EE
 - Python
 - Haskell
@@ -27,9 +28,11 @@ I code, a lot. Check out my work by looking through my repos!
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [CodeBlocks](https://www.codeblocks.org/)
  - [Eclipse](https://www.eclipse.org/) (on extremely rare occasions)
+ - [Visual Studio](https://visualstudio.microsoft.com/)
  - [PyCharm](https://www.jetbrains.com/pycharm/)
  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  - [CLion](https://www.jetbrains.com/clion/)
+ - [Rider](https://www.jetbrains.com/rider/)
 
 #### 👨‍💻 To improve my programming skills, I usually code Katas here:
  - [Codewars Profile](https://www.codewars.com/users/aGamer)
