@@ -12,7 +12,7 @@ I code, a lot. Check out my work by looking through my repos!
 - Python
 - Haskell
 - HTML/JavaScript/PostgreSQL
-- PHP & MySQL
+- PHP & MySQL / SQLite
 - React
 
 #### 🗣️ Speaking 3 foreign languages:
