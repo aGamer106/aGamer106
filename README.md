@@ -15,7 +15,7 @@ I code, a lot. Check out my work by looking through my repos!
 - PHP & MySQL / SQLite
 - React
 
-#### 🗣️ Speaking 3 foreign languages:
+#### 🗣️ Speaking 3 languages:
  - English (C2)
  - German (C1/C2)
  - Romanian (native proficieny)
